@@ -9,6 +9,7 @@ p {
 body {
     background-color: rgb(133, 133, 133);
     font-family: "Audiowide", sans-serif;
+    background-image: url(https://cdn.wallpapersafari.com/78/36/zF5kX7.jpg);
      }
 
 
@@ -33,7 +34,9 @@ ol{
 }
 
 span{
+  background-color: rgb(235, 150, 52);
   margin: 10px;
+  padding: 5px;
 }
 
 div{
