@@ -8,15 +8,18 @@ p {
 
 body {
     background-color: rgb(133, 133, 133);
+    font-family: "Audiowide", sans-serif;
      }
 
 
 footer{
+        margin-top: 175px;
         text-align: center;
         padding-top: 20px;
       }
 
 header{
+        margin-bottom: 25px;
         padding-bottom: 20px;
         padding-top: 20px;
         font-weight: bold;
@@ -27,4 +30,12 @@ header{
 ol{
   list-style-type: decimal;
   list-style-position: inside;
+}
+
+span{
+  margin: 10px;
+}
+
+div{
+  margin: 40px;
 }
